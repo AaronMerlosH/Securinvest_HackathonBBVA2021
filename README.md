@@ -12,7 +12,7 @@ link: https://securinvest.azurewebsites.net/
 
 ![chatbot](https://user-images.githubusercontent.com/89148608/138602337-0bc58096-7b68-497e-8faf-5fef3fe627b3.gif)
 
-
+![gif_arbool](https://user-images.githubusercontent.com/89148608/138603014-bbd6bbad-363b-44c6-84cd-b72ed6edba62.gif)
 
 ## VISUALIZACION DE DATOS
 
@@ -48,8 +48,5 @@ link : https://github.com/AaronMerlosH/Securinvest_HackathonBBVA2021/blob/main/B
 ## DESARROLLO SITIO WEB
 
 ![WordPress_interface](https://user-images.githubusercontent.com/89148608/138602389-937b8a80-5756-433e-b69f-1ab24eb2d70d.gif)
-
-
-link :https://securinvest.azurewebsites.net/
 
 
