@@ -1,6 +1,7 @@
 # Securinvest_HackathonBBVA2021 💙
 Solución desarrollada para el reto "ayuda para invertir"  del hackathon BBVA 2021 en el cual se participa como equipo con el nombre de Workmates.
 
+VIDEO PITCH: https://www.canva.com/design/DAEtvo8_REQ/2hUHgtC13hJ2dTj27wWNEQ/watch?utm_content=DAEtvo8_REQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ## SITIO WEB FINAL 👨‍💻
 
