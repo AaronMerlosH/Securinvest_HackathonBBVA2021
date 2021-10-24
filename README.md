@@ -6,6 +6,7 @@ Solución desarrollada para el reto "ayuda para invertir"  del hackathon BBVA 20
 
 ![webapp](https://user-images.githubusercontent.com/89148608/138602329-2771d5cf-2531-4359-86ee-3d86f84a8b75.gif)
 
+link: https://securinvest.azurewebsites.net/
 
 ## CHATBOT
 
@@ -19,6 +20,7 @@ Solución desarrollada para el reto "ayuda para invertir"  del hackathon BBVA 20
 
 ![Diagrama_de_Linaje](https://user-images.githubusercontent.com/89148608/138602410-b4d15a18-6cc6-4067-a0c9-b4afa2fb65e0.gif)
 
+link: https://app.powerbi.com/links/avuu308Eic?ctid=4ae54b05-b77e-4224-aef1-8661422e0816&pbi_source=linkShare
 
 ## PREDICCIONES
 
@@ -29,7 +31,7 @@ Solución desarrollada para el reto "ayuda para invertir"  del hackathon BBVA 20
 
 ## TUTORIAL DE USUARIO
 
-
+link: https://www.canva.com/design/DAEtty9nzVY/LcN6Exwai-iI6ksAv-aGGQ/view?utm_content=DAEtty9nzVY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ## ARQUITECTURA DE SOLUCION
 
@@ -40,7 +42,7 @@ Solución desarrollada para el reto "ayuda para invertir"  del hackathon BBVA 20
 
 ![Bosquejo](https://user-images.githubusercontent.com/89148608/138602359-e10ce4b2-eda0-412d-aeca-05e91b7f3b3a.gif)
 
-link prototipo con adobeXD: https://github.com/AaronMerlosH/Securinvest_HackathonBBVA2021/blob/main/Bosquejo_adobe.xd
+link : https://github.com/AaronMerlosH/Securinvest_HackathonBBVA2021/blob/main/Bosquejo_adobe.xd
 
 
 ## DESARROLLO SITIO WEB
@@ -48,6 +50,6 @@ link prototipo con adobeXD: https://github.com/AaronMerlosH/Securinvest_Hackatho
 ![WordPress_interface](https://user-images.githubusercontent.com/89148608/138602389-937b8a80-5756-433e-b69f-1ab24eb2d70d.gif)
 
 
-link a Pagina Web:https://securinvest.azurewebsites.net/
+link :https://securinvest.azurewebsites.net/
 
 
